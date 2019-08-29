@@ -6,7 +6,7 @@
         "description":"15 gallon capacity rolling garden",
         "price":32.99,
          "starRating":4.2,
-         "imageUrl": "../../../images/garden_cart.jpg"
+         "imageUrl": "../../assets/images/garden_cart.jpg"
       },
       {
         "productId":5,
@@ -16,7 +16,7 @@
         "description":"15 Curved claw steel hammer",
         "price":8.9,
          "starRating":4.8,
-         "imageUrl":"../../../images/hammer.png"
+         "imageUrl":"../../assets/images/hammer.png"
          
          
   }]
