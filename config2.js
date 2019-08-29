@@ -7,7 +7,7 @@
         "description":"15 gallon capacity rolling garden",
         "price":32.99,
          "starRating":4.2,
-         "imageUrl": './images/garden_cart.jpg'
+         "imageUrl": "./images/garden_cart.jpg"
       },
       {
         "productId":5,
