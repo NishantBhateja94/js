@@ -1,5 +1,4 @@
- {
- "data":[{
+ [{
  "productId":2,
         "productName":"Garden Cart",
         "productCode":"GDN-0023",
@@ -21,5 +20,5 @@
          
          
   }]
-  }
+  
          
